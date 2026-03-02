@@ -2,7 +2,7 @@
 
 **Resourcepack for Java 1.21.9+**.
 
-**LINK👉** [![Modrinth](https://img.shields.io/badge/Modrinth-green)](https://modrinth.com/resourcepack/vertical-slabs-shelf "Visit this resourcepack on modtinth (*OvO*)")
+**LINK👉** [![Github](https://img.shields.io/badge/github-VSS-purple?logo=github)](https://github.com/MC3156/Vertical-Slabs-Shelf "Visit this resourcepack on Github (*OvO*)") [![Modrinth](https://img.shields.io/badge/Modrinth-dark_green)](https://modrinth.com/resourcepack/vertical-slabs-shelf "Visit this resourcepack on Modtinth (*OvO*)") [![CurseForge](https://img.shields.io/badge/CurseForge-red)](https://www.curseforge.com/minecraft/texture-packs/vertical-slabs-shelf "Visit this resourcepack on CurseForge (*OvO*)")
 
 ## Using & 使用方法
 
